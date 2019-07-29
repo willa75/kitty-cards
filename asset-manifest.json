@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/kitty-cards/static/css/main.fa9e8c50.chunk.css",
+    "main.js": "/kitty-cards/static/js/main.16560768.chunk.js",
+    "main.js.map": "/kitty-cards/static/js/main.16560768.chunk.js.map",
+    "runtime~main.js": "/kitty-cards/static/js/runtime~main.05ef5e29.js",
+    "runtime~main.js.map": "/kitty-cards/static/js/runtime~main.05ef5e29.js.map",
+    "static/js/2.65aa1cca.chunk.js": "/kitty-cards/static/js/2.65aa1cca.chunk.js",
+    "static/js/2.65aa1cca.chunk.js.map": "/kitty-cards/static/js/2.65aa1cca.chunk.js.map",
+    "index.html": "/kitty-cards/index.html",
+    "precache-manifest.7406c53b59ed9d32b944503872e90a5d.js": "/kitty-cards/precache-manifest.7406c53b59ed9d32b944503872e90a5d.js",
+    "service-worker.js": "/kitty-cards/service-worker.js",
+    "static/css/main.fa9e8c50.chunk.css.map": "/kitty-cards/static/css/main.fa9e8c50.chunk.css.map"
+  }
+}
